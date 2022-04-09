@@ -64,7 +64,7 @@
         "echarts": "^4.2.1",
         "history": "^4.9.0",
         "lodash-es": "^4.17.11",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "rc-tween-one": "^2.4.1",
         "react": "^16.8.6",
         "react-dom": "^16.8.6",
